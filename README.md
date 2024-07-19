@@ -9,6 +9,7 @@ I have spent the majority of my career in business development and product and a
 *   🌍  I'm based in United States
 *   ✉️  You can contact me at [john.sormark@gmail.com](mailto:john.sormark@gmail.com)
 *   🧠  I'm learning new R/RStudio analysis in Econometrics.
+*   🧠  Next project I am starting will look to utilize machine learning models for NLP tasks applied to a document data base to accomplish tasks related to document classification, retrieval and summarization. I just finished reviewing and working on a sentiment analysis project which utilized customer reviews for a given set of products to provide numerical scores based on formulated product reviews. 
 
 ###  Skills
 
